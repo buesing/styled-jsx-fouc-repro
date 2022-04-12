@@ -29,8 +29,4 @@ const Index = () => {
   )
 }
 
-Index.getInitialProps = () => {
-  return {}
-}
-
 export default Index
